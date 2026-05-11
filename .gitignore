@@ -40,6 +40,8 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+!build/web
+build/web/assets/.env
 /coverage/
 
 # Symbolication related
